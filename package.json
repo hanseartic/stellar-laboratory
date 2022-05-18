@@ -65,7 +65,7 @@
     "trezor-connect": "^8.1.27",
     "typescript": "^4.3.5",
     "uri-templates": "^0.2.0",
-    "urijs": "^1.16.0"
+    "urijs": "^1.19.11"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.14.9",
